@@ -1,5 +1,5 @@
 # GQ3
-Updating an old GDScript for Quake 3-like physics.
+Updating an old GDScript for Quake 3-like physics with bhopping + air strafing.
 
 # Sources
 Og script - https://github.com/DanjosGames/gd_cpm
